@@ -1,0 +1,90 @@
+  
+  .header {
+    position: absolute;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #FAEBD7;
+    width: 100%;
+    height: 30px;
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+  }
+  
+  .menu  {
+    position: absolute;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #A4C639;
+    top: 30px;
+    left: 0;
+    width: 100%;
+    height: 30px;
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+    
+  }
+  
+  .calendar {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    top: 60px;
+    left: 0%;
+    width: 100%;
+    height: 100px;
+    
+    background-color: #9E9E9E;
+
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+  }
+  
+  
+
+  .bottom{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    left: 0%;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    
+    background-color: 	#7FFFD4;
+
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+  }
+
+  .transaction {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin: 0;
+    line-height: 5em;
+
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+  }
+
+  #canvas { background: "orange" }
+  
