@@ -1,0 +1,8 @@
+const constants = {
+    CREATE_ACTION: "CREATE_ACTION",
+    UPDATE_ACTION: "UPDATE_ACTION",
+    REMOVE_ACTION: "REMOVE_ACTION",
+    UPDATE_CALENDAR: "UPDATE_CALENDAR"
+}
+
+export default constants
